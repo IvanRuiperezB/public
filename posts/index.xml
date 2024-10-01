@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Iván Ruipérez</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Iván Ruipérez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 10:16:11 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Películas</title>
+      <link>http://example.org/posts/p%C3%A1gina3/</link>
+      <pubDate>Tue, 01 Oct 2024 10:16:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/p%C3%A1gina3/</guid>
+      <description>Mis películas favoritas Mis películas favoritas con las de Dune, dirigidas por Denis Villeneuve. Están basadas en los libros de Dune del escritor Frank Herbert.
+Me han gustado tanto que me he comprado los libros para leerlos.</description>
+    </item>
+    
+    <item>
+      <title>Videojuegos</title>
+      <link>http://example.org/posts/p%C3%A1gina2/</link>
+      <pubDate>Tue, 01 Oct 2024 10:16:09 +0200</pubDate>
+      
+      <guid>http://example.org/posts/p%C3%A1gina2/</guid>
+      <description>Top videojuegos favoritos Estos son mis videojuegos favoritos ordenados:
+The last of us Parte II God of war Ragnarok Ghost of Tsushima Sifu Marvel&amp;rsquo;s Spiderman 2 Horizon Zero Dawn Mi favorito en móvil Mi juego favorito en móvil es Brawl Stars.
+Brawl Stars es un videojuego multijugador para móviles disponible en Android y iOS, desarrollado por Supercell y lanzado globalmente en 2018.
+El objetivo principal del juego es conseguir la mayor cantidad de trofeos y brawlers (los personajes de Brawl Stars), para progresar en un camino de trofeos.</description>
+    </item>
+    
+    <item>
+      <title>Música</title>
+      <link>http://example.org/posts/p%C3%A1gina1/</link>
+      <pubDate>Tue, 01 Oct 2024 10:16:05 +0200</pubDate>
+      
+      <guid>http://example.org/posts/p%C3%A1gina1/</guid>
+      <description>Mi cantante favorito Mi cantante favorito es Kanye West. Mi albúm favorito es Graduation, que salió en 2007.
+Otros álbumes que me gustan de Kanye West son:
+My Beautiful Dark Twisted Fantasy Ye Yeezus 808s &amp;amp; Heartbreak The life of Pablo En este enlace puedes ver su página en Apple Music.</description>
+    </item>
+    
+  </channel>
+</rss>
